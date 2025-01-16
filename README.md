@@ -13,7 +13,7 @@ QRCode-Generator is a Python application built with Tkinter that allows users to
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/QRCode-Generator.git
+   git clone https://github.com/Justatine/QRCode-Generator.git
    cd QRCode-Generator
    ```
 

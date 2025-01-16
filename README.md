@@ -46,10 +46,10 @@ QRCode-Generator is a Python application built with Tkinter that allows users to
 
 ## Screenshots
 
-![Main Interface](path/to/screenshot_main.png)
+<!-- ![Main Interface](path/to/screenshot_main.png) -->
 *Main interface showcasing the table and QR code display.*
 
-![QR Code View](path/to/screenshot_qrcode.png)
+<!-- ![QR Code View](path/to/screenshot_qrcode.png) -->
 *QR code displayed upon double-clicking a row.*
 
 ## Requirements

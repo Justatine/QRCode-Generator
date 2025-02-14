@@ -1,0 +1,628 @@
+StoreCode,StoreName
+B10013,Wireless Mandaue
+B10049,Gorordo Cebu
+ B10052 ,Banawa Cebu
+B10114,Ompad Lapulapu
+B10138,Minglanilla I (Public Market)
+B10153,Sanciangco Cebu City
+B10192,San Fernando Cebu
+B10203,C. Padilla Cebu City
+B10281,Dalaguete Cebu
+B10304,Villilia Novaliches
+B10379,Lavina Valencia Bukidnon
+B10394,Gen. Aguinaldo Iligan
+B10405,Lopez Ave. Sucat Paranaque City
+B10417,Cabreros Cebu City
+B10468,Minglanilla II (Ward 3 Nat'l Hiway)
+B10495,Ibabao Mandaue 
+B10518,Pagsabungan Mandaue
+B10545,Mustang Lapulapu 
+B10673,T. Padilla Cebu City
+B10851,Basak I (Pardo-USJR) Cebu City
+B10887,Maguikay Mandaue 
+B10925,Jamisola Pagadian City
+B10952,Bulacao Pardo Cebu City
+B10964,Cogon Pardo Cebu City
+B11078,Maribago Lapulapu 
+B11128,Oslob Cebu
+B11155,Simala Sibonga Cebu
+B11256,Argao Cebu
+B11271,Marigondon Lapulapu
+B11283,Sunny Hills Talamban Cebu City
+B11321,Fatima Cebu City
+B11369,Mambaling Cebu City
+B11458,Tubod Lanao del Norte
+B11511,Lutopan Toledo City
+B11559,Sugbuanon Colon
+B11562,Boljo-on Cebu
+B11586,Terminal I (So. Terminal) Cebu City
+B11651,Quezon Valencia
+B11663,Lipata Minglanilla
+B11675,Carmen Cebu
+B11713,Sangi Lapulapu
+B11725,V. Rama-Tres Cebu City
+B11737,Naga Cebu
+B11776,Tanjay Negros Oriental
+B11814,Pit-os Cebu City
+B11877,Maranding Lanao del Norte
+B11889,Aznar Cebu City
+B11892,V. Rama-Calamba Cebu City
+B11903,Tungkop Minglanilla
+B12044,Bais Negros Oriental
+B12056,Maramag Bukidnon
+B12068,Binan Laguna
+B12095,Mango Cebu City
+B12121,Polomolok South Cotabato
+B12133,Salinas Lahug
+B12362,Rajah Soliman Baguio City
+B12436,Colon Cebu City
+B12549,Lipa Batangas
+B12591,Talamban Proper Cebu City
+B12614,Pateros Manila
+B12653,Kauswagan Cagayan de Oro
+B12727,Don Jose Avila Cebu City
+B12754,Buendia Pasay City
+B12793,Siniloan Laguna
+B12894,San Fernando City La Union
+B12932,Hilltop Market Baguio City
+B12944,Mindanao Ave-Tandang Sora Quezon City
+B12956,Banilad Cebu City
+B13147,B. Rodriguez Cebu City
+B13301,Laoag City Ilocos Norte
+B13414,A. Rodriguez Rosario Pasig
+B13492,Barili Cebu
+B13593,Pacita Complex San Pedro Laguna
+B13756,Magsaysay Baguio City
+B13845,Sudlon Lahug Cebu City
+B14036,San Pedro Town Center Laguna
+B14137,Olongapo City Zambales
+B14292,Kinasang-an Pardo Cebu City
+B14303,Ipil Zamboanga Sibugay
+B14378,Ginatilan Cebu
+B14393,Cordova Mactan
+B14404,Mabolo Cebu City
+B14428,Sucat Road Paranaque
+B14482,Calamba Misamis Occidental
+B14532,Bacayan Cebu City
+B14556,Matina Shrine Davao City
+B14595,Hagnaya Cebu
+B14669,Sibonga Cebu
+B14823,Don Carlos Bukidnon
+B14898,Panabo Davao
+B14963,Skyline Davao
+B15139,Mantalungon Dalaguete (2)
+B15154,Jungquera cor. R. R. Landon Cebu
+B15216,Fatima Gen. Santos City
+B15228,Kawit Medellin Cebu
+B15231,Daanbantayan Cebu
+B15243,Gov. Lim Zamboanga
+B15282,Siquijor Siquijor
+B15294,Bangued Abra
+B15406,Centro Mandaue
+B15418,Olympus Arcade Novaliches
+B15484,Divisoria Dry Cawayan Masbate
+B15496,Sangi Toledo
+B15507,P. Montoya Silang Cavite
+B15519,Sogod Leyte
+B15558,Tangub Mis. Occidental
+B15597,Larena Siquijor
+B15608,Roxas Tagum
+B15623,Ancajas Medellin
+B15662,Agora Lapasan Cagayan de Oro
+B15698,S. Osmena Lapu-lapu
+B15712,Poblacion Muntinlupa Market Muntinlupa
+B15724,Galas Dipolog
+B15775,Yati Liloan
+B15801,Mambajao Camiguin
+B15849,Turno Dipolog
+B15888,Canjulao Lapulapu
+B15902,Sindangan Zamboanga del Norte
+B15914,Hinunangan Southern Leyte
+B16004,Bungtod Bogo
+B16105,Damolog Sogod
+B16129,P. Lorenzo Zamboanga
+B16156,Minaog Dipolog
+B16183,Tandang Sora Quezon City
+B16218,Bogo Market Cebu
+B16272,Quiot Pardo Cebu City
+B16307,Mintal Davao
+B16346,Kapalong Davao Del Norte
+B16361,Pitogo Consolacion
+B16408,Lanang Davao City 
+B16423,Dumaguete Negros Oriental
+B16435,Bayawan Negros Oriental 
+B16447,Balamban Cebu
+B16459,Cabancalan Mandaue City
+B16462,V. Gullas - P. Burgos Cebu City
+B16474,Tuburan Cebu
+B16524,Gen. Luis Novaliches
+B16587,San Francisco Camotes
+B16691,Calbayog Samar
+B16738,Kabankalan Negros Occidental
+B16792,Bantayan Cebu
+B16815,Tubigon Bohol
+B16827,Solano Nueva Vizcaya
+B16854,Moalboal Cebu
+B16893,Borongan Samar
+B16904,Balibago Sta. Rosa
+B16928,Vigan Ilocos Sur
+B16943,Ilaya Cagayan de Oro
+B17021,Pico La Trinidad
+B17107,Prince Mall Guiuan Samar
+B17161,San Roque Marikina
+B17173,G.Y. dela Serna Lapulapu City
+B17197,Polanco Zamboanga
+B17259,Tres de Abril Labangon
+B17312,Marawi Lanao del Sur
+B17387,Tisa Cebu City
+B17425,Miputak Dipolog City
+B17452,Pating Masbate City
+B17464,F. Llamas Punta Princesa
+B17514,Panganiban Cebu City
+B17526,Lamacan Argao
+B17538,Inoburan Naga
+B17565,Quezon Blvd. Kidapawan City
+B17603,Pusok Lapulapu City 
+B17642,Veterans Ave. Zamboanga City
+B17654,Impalambong Malaybalay
+B17716,Bogo North Town Ctr. Bogo
+B17728,Guadalupe Cebu City
+B17731,Liloy Zamboanga del Norte
+B17743,Olivar Danao City
+B17779,Pakigne Minglanilla
+B17782,Dulag Leyte
+B17805,Happy Homes Magsaysay Baguio
+B17832,Tayud Consolacion
+B17844,Imelda Zamboanga Sibugay
+B17868,Tibanban Davao Oriental
+B17883,Balirong Naga
+B17945,Bolinao Pangasinan
+B18008,Dumlog Talisay
+B18011,Mauban Quezon
+B18074,Babag II Lapulapu City
+B18109,Biasong Merida
+B18112,Maningcol Ozamiz City
+B18136,Ayungon Negros Oriental
+B18151,Madang Mati Davao
+B18187,Lacaya Dipolog
+B18225,Gaisano Capital San Carlos Negros Occidental
+B18237,Panubigan Canlaon City Negros Oriental
+B18249,Mawab Compostela Valley
+B18276,Tapilon Daanbantayan Cebu
+B18377,Singao Kidapawan City
+B18415,Ilagan Public Market Ilagan City
+B18427,Mohon Talisay
+B18442,Cabantan Cebu City
+B18466,Maigo Lanao del Norte
+B18481,Camputhaw Cebu City
+B18493,Pajo Lapulapu City
+B18504,Bacay Minglanilla
+B18516,Sangat San Fernando
+B18531,Dalaguete Market Dalaguete
+B18543,Quirino Highway Talipapa
+B18582,Bonifacio Bukidnon
+B18617,UPS-5 Paranaque
+B18629,Tagunol Mambaling
+B18632,Cabreros Cebu City 2
+B18668,Vito Minglanilla
+B18671,Cortes Mandaue
+B18695,P. Sanchez Pagsabungan
+B18706,Sewage Lapulapu
+B18721,Bontores San Nicolas
+B18733,Holy Cross Basak Pardo
+B18745,Casuntingan Mandaue
+B18757,Rizal Avenue Pagadian City
+B18772,Poblacion Pardo Cebu City
+B18784,Laray San Roque Talisay 
+B18796,H. Mall Mactan Cebu
+B18807,Taloot Argao
+B18822,Prince Warehouse Argao Cebu
+B18846,Grand Mall Lapulapu
+B18861,San Roque Mambaling Cebu City
+B18885,Lutopan 2 Toledo City
+B18897,Cantabaco Toledo City
+B18908,Das Market Lutopan
+B18911,Alcoy Cebu
+B18935,Roxas Valencia
+B18947,Magsaysay Valencia
+B18974,Kapatagan Lanao del Norte
+B18998,Inayagan Naga
+B19013,Quezon Avenue Bukidnon
+B19025,BMP Laguna
+B19076,Tintay Talamban Cebu City
+B19088,Kauswagan Talamban
+B19091,Pasig Market Manila
+B19126,Capitol Cebu City
+B19138,SM Mall of Asia Pasay City
+B19141,Mapua Intramuros
+B19153,Adamson University Manila
+B19203,Kayang Baguio City
+B19227,Anagan Apas
+B19239,Banilad Cebu City
+B19304,A. Rodriguez Rosario Pasig
+B19331,Landayan San Pedro Laguna
+B19405,New Lucban Baguio
+B19417,Purok 8 Kamputhaw
+B19432,Gordon Pag-asa Olongapo
+B19444,SBMA Olongapo City
+B19456,Rizal Triangle Olongapo
+B19468,Rizal Avenue Olongapo
+B19495,Pilipog Cordova
+B19506,Gabi Cordova
+B19518,Huyong-huyong Bacayan
+B19521,Lapulapu Davao City
+B19545,San Remegio Cebu
+B19596,Carmen Davao 2
+B19619,Guadalupe (Fooda) Cebu City
+B19622,Caleriohan Dalaguete
+B19634,Mahawak Medellin Cebu
+B19646,Lazi Siquijor
+B19658,Mabini-Plaridel
+B19685,Magdugo Toledo
+B19697,Gaisano Capital Sogod Sogod
+B19711,Courtyard Tangub City
+B19723,Paknaan Mandaue
+B19735,Paknaan 2 Mandaue
+B19747,Paknaan Satellite Market Mandaue
+B19759,Medellin Public Market Cebu
+B19762,Rizal Lapulapu
+B19798,Putatan Muntinlupa
+B19863,Sogod Cebu
+B19887,UP Technohub Quezon City
+B19899,TriNoma Mall Quezon City
+B19913,Quiot 2 Pardo Cebu City
+B19952,Consolacion Cebu
+B19976,Cabancalan 2 Mandaue City
+B19988,Tuburan Public Market Cebu
+B19991,Poro Camotes
+B20041,San Vicente Yati
+B20053,Kabuloy Catarman
+B20142,Empire Centre Mall Pasay
+B20216,Marcos Highway Pasig City
+B20228,Gun-ob Lapu-lapu
+B20243,Tres de Abril 2 Punta Princesa
+B20267,Marawi 2 Lanao del Sur
+B20282,Aroroy Masbate City
+B20294,Punta Princesa Cebu City
+B20317,Damilag Bukidnon
+B20368,Fortich Malaybalay
+B20395,Calajoan Minglanilla
+B20406,Tabada Basak San Nicolas
+B20421,Matiao Highway Mati
+B20445,Maya Daanbantayan
+B20472,Mohon 2 Talisay
+B20484,Pooc Talisay
+B20546,Malinao Daanbantayan
+B20558,Labason Zamboanga del Norte
+B20561,Upper Pulacan Zamboanga del Sur
+B20573,Naga City People's Mall Camarines Sur
+B20623,Mahayag Zamboanga del Sur
+B20647,Poblacion Borbon Cebu
+B20709,Tibanban-Lavigan Davao Oriental
+B20712,Pan-Philippine Hiway Tacloban City
+B20748,Rizal Avenue Basak San Nicolas
+B20775,Capulay Tayud
+B20787,Curva Medellin
+B20813,Busay Nivel Hills
+B20837,Seaoil (Cogon) Taytayan Bogo City
+B20876,Pier 3 Tinago Cebu City
+B20902,Cagodoy Lapulapu City
+B21004,Molino 3 Bacoor Cavite
+B21055,San Guillermo Dalaguete
+B21094,Mercato de Mactan Cebu
+B21132,Poblacion 3 Tagbilaran City
+B21156,San Isidro Ormoc City
+B21195,SM City Rosario Cavite
+B21233,Estancia Mandaue City
+B21269,Gutalac Zamboanga del Norte
+B21296,Patag Cagayan de Oro
+B21319,Pandac Pavia Iloilo
+B21322,Argao Public Market Cebu
+B21334,R. Magsaysay Sto. Tomas Davao Del Norte
+B21346,Rizal Mati Davao Oriental
+B21358,Carajay Lapulapu City
+B21373,Jasaan Misamis Oriental
+B21385,Nabunturan Compostela Valley
+B21435,Poblacion Medellin Cebu (across Prince)
+B21447,Prince Hypermart Minglanilla Cebu
+B21512,Andres Abellana Guadalupe
+B21524,Prince Hypermart Dulag Leyte
+B21548,Poblacion Tabogon Cebu
+B21575,Dumanjug Public Market Poblacion Dumanjug
+B21625,Poblacion Manukan Zamboanga del Norte
+B21637,Kapatagan 2 Lanao del Norte
+B21649,Trece Public Market Trece Martires Cavite
+B21688,Piao Manuel A. Roxas Zamboanga del Norte
+B21702,Go Mart Soong Maribago Lapulapu City
+B21789,Lutac Naga City Cebu
+B21803,Casisang Malaybalay Bukidnon
+B21815,Poblacion 2 Oroquieta Misamis Occidental
+B21827,Lam an Ozamis Misamis Occidental
+B21839,L. Abad Barili Cebu
+B21854,RFC Molino II Cavite
+B21866,Apitong Maranding Lanao del Norte
+B21878,Salug Poblacion Zamboanga del Norte
+B21881,Fatima Liloy Zamboanga del Norte
+B21893,San Jose Montevista Davao de Oro
+B21916,Balangasan Pagadian City
+B21943,Juana Osmena Cebu City
+B21955,Deca Homes Pavia Iloilo
+B21982,San Jose Goa Camarines Sur
+B21994,Hernan Cortes Subangdaku Mandaue City
+B22057,Ylaya Tondo Manila
+B22069,Ilihan Tabogon Cebu
+B22096,BF Resort Talon 2 Las Pinas City
+B22122,Rafael Rabaya Cansojong Talisay
+B22134,San Isidro Village Talisay
+B22185,Poblacion Pinan Zamboanga del Norte
+B22262,Poblacion Katipunan Zamboanga del Norte
+B22274,Gaisano Grand Mall Minglanilla Cebu
+B22286,Catarman Liloan Cebu
+B22298,Moonwalk Paranaque City
+B22309,Cabel Lagao Gensan City
+B22324,Poblacion San Juan Siquijor
+B22336,Central Mall Dasmarinas Cavite
+B22348,Blumentritt Sta. Cruz Manila
+B22363,B. Aquino San Jose Pagadian City
+B22401,District Mall Dasmarinas Cavite
+B22425,Poblacion Tampilisan Zamboanga del Norte
+B22437,Sergio Osmena Zamboanga del Norte
+B22449,Ever Gotesco Commonwealth Quezon City
+B22452,Waltermart North Edsa Quezon City
+B22464,Waltermart E. Rodriguez Quezon City
+B22476,Waltermart Trece Martires Cavite
+B22514,South Mapang Rizal Zamboanga del Norte
+B22526,Poblacion Sapang Dalaga Misamis Occidental
+B22538,Sebac Tudela Misamis Occidental
+B22541,Proper Tunghaan Minglanilla Cebu
+B22553,Waltermart Dasmarinas Cavite
+B22589,Waltermart Bicutan Paranaque City
+B22592,Pittland Cabuyao Laguna
+B22603,Central Mall Binan Laguna
+B22615,Waltermart Carmona Cavite
+B22627,Puregold Anabu Cavite
+B22639,MacArthur Marulas Valenzuela City
+B22654,Galvan Dagupan City
+B22666,Island Central Mactan Lapulapu City
+B22678,Waltermart Taytay Rizal
+B22681,Waltermart Antipolo Rizal
+B22693,Palaris San Carlos City Pangasinan
+B22728,V. Albano Maguikay Mandaue City
+B22743,Napico Manggahan Pasig City
+B22755,Trabajo Market Sampaloc Manila
+B22782,Waltermart Sucat Paranaque City
+B22794,Oppra Kalunasan Cebu City
+B22805,Mactan Breeze Center Mactan Lapulapu City
+B22817,Waltermart Bacoor Cavite
+B22829,Karangalan Village Manggahan Pasig City
+B22832,Tayud Liloan Cebu
+B22844,BF Homes Buhisan Cebu City
+B22868,Poblacion Margosatubig Zamboanga del Sur
+B22871,Poblacion Leon Postigo Zamboanga del Norte
+B22895,A. Gabuya Cogon Pardo Cebu City
+B22918,Puregold Tanza Cavite
+B22921,Lucky Lemery Batangas
+B22972,Harmony Hills San Jose Del Monte Bulacan
+B22996,SM North Edsa Bus Terminal Quezon City
+B23008,Gaisano Mactan Island Mall Lapulapu City
+B23023,Lower Camparang Kalunasan Cebu City
+B23035,Caasinan Cabadbaran City
+B23047,San Nicolas Washington Surigao City
+B23074,Talakag Bukidnon
+B23086,Poblacion Buenavista Agusan del Norte
+B23098,Marc Square Taytay Rizal
+B23124,Ocana Carcar Cebu
+B23163,Paliparan Salawag Dasmarinas City
+B23175,Poblacion East Milagros Masbate
+B23187,Alicia Zamboanga Sibugay
+B23199,Mabuhay Zamboanga Sibugay
+B23213,Waltermart Gen. Trias Cavite
+B23237,Robinsons Place Terminal Tacloban
+B23264,San Jose Cebu City
+B23288,Gaisano Saversmart Basak Lapulapu City
+B23291,Graceland 1 Buaya Lapulapu City
+B23314,P. Tuazon Project 4 Quezon City
+B23326,Kalentong Mandaluyong City
+B23365,Halapitan San Fernando Bukidnon
+B23377,Tubod Iligan City
+B23389,Suarez Iligan City
+B23392,Consunji Iligan City
+B23403,Tambo Public Market Iligan City
+B23427,SM Hypermarket Kadiwa Cavite
+B23481,Poblacion Tabuelan Cebu
+B23493,Urgello-Uytengsu Cebu City
+B23504,Candon Ilocos Sur
+B23516,SM Supermarket Tanza Cavite
+B23531,Polo Dapitan Zamboanga del Norte
+B23543,Plaridel Misamis Occidental
+B23555,Tamontaka Maguindanao
+B23579,SM Hypermarket Fairview Quezon City
+B23582,SM Hypermarket Deca Mall Manila
+B23594,SM Hypermarket Sun Residences Quezon City
+B23605,SM Hypermarket Mandaluyong Metro Manila
+B23617,Robinsons Place Dasmarinas Cavite
+B23629,Festival Mall Alabang Muntinlupa
+B23632,SM Savemore Tacloban Leyte
+B23656,Rizal Don Carlos Bukidnon
+B23668,Poblacion Guipos Zamboanga del Sur
+B23683,Bagumbayan 2 Maribago Lapulapu City
+B23695,St. Joseph Center San Jose de Buenavista Antique
+B23706,Esprutingkle Bus. Hotel San Jose de Buenavista Antique
+B23718,Baybay Liloy Zamboanga del Norte
+B23721,Burgos Rodriguez Rizal
+B23745,SM Cherry Shaw Mandaluyong City
+B23757,SM Megamall Bus Terminal Mandaluyong City
+B23769,Manna Mall San Fernando La Union
+B23807,Poblacion Kabasalan Zamboanga Sibugay
+B23819,RT Lim Zamboanga Sibugay
+B23834,Poblacion San Pablo Laguna
+B23846,Garden Villas Sta. Rosa Laguna
+B23861,Aglayan Malaybalay Bukidnon
+B23873,VH Garces Tangke Talisay
+B23885,Balic-Balic Sampaloc Manila
+B23908,Sta. Cruz Laguna
+B23923,National Highway Tibungco Davao City
+B23947,One Ayala Mall Bus Terminal Makati City
+B23962,Quirino Avenue Baclaran Paranaque
+B23974,Gagalangin Tondo
+B23986,Cogon Tagbilaran Bohol
+B23998,Tankulan Manolo Fortich Bukidnon
+B24013,Mabitangen Coron Palawan
+B24025,Wilcon City Center Quezon City
+B24037,Jagna Bohol
+B24049,UB Tagbilaran Bohol
+B24052,Dayangdang Naga City Camarines Sur
+B24064,Savemore Carcar Cebu
+B24076,San Vicente Carcar Cebu
+B24091,Rizal Bukidnon
+B24102,Quezon Bukidnon
+B24114,SM Megacenter Cabanatuan City
+B24126,Cabanatuan Central Terminal Cabanatuan City
+B24138,Sun Star Mall Sta. Cruz Laguna
+B24153,Ulha Village Talomo Davao City
+B24177,Principe San Jose de Buenavista Antique
+B24189,Ligtasan Tarlac
+B24203,Metro Central Mall Sta. Cruz Laguna
+B24215,NE Pacific Mall Cabanatuan City
+B24227,My Metro Town Mall Tarlac City
+B24239,Market City Tarlac City
+B24242,Waltermart Cabanatuan Cabanatuan City
+B24254,Poblacion Sur Rizal Nueva Ecija
+B24266,C. Padilla - T. Abella Cebu City
+B24278,Halina Hotel Pasay City
+B24281,SM Supermarket Sangandaan Caloocan City
+B24293,P. Ouano Alang-alang Mandaue
+B24304,Iba Meycauayan City
+B24316,Litex Commonwealth Quezon City
+B24328,Tuburan New Public Market Cebu
+B24331,Olutanga Zamboanga Sibugay
+B24343,Ayala South Park Alabang
+B24355,Poblacion Marilao Bulacan
+B24379,SM Supermarket Cabanatuan Nueva Ecija
+B24382,J. A. Santos Digos City
+B24394,Tambongon San Remigio Cebu
+B24405,Guinsay Danao City Cebu
+B24417,Sto. Nino Gapan Nueva Ecija
+B24432,San Pedro Pagadian City
+B24444,Bagumbayan Masbate City
+B24456,Nursery Masbate City
+B24468,Waltermart Gapan Gapan City
+B24483,N. Bacalso Sibonga Cebu
+B24495,Centro Sur Culasi Antique
+B24506,Ubay Bohol
+B24518,Claveria Misamis Oriental
+B24521,SM Supermarket North Edsa Quezon City
+B24533,Lower Ipil Heights Zamboanga Sibugay
+B24557,New Cabalan Olongapo City
+B24569,CLA Town Center Mall Pagsanjan
+B24572,SM City Lipa Grand Terminal Batangas
+B24584,Carbon Market Interim Cebu City
+B24596,Freedom Park Carbon Cebu
+B24619,Bacayan 2 Cebu City
+B24622,Lopez Jaena Sur Jaro Iloilo City
+B24634,Poblacion Talisay Cebu
+B24658,Poblacion 2 Hamtic Antique
+B24673,Project 6 Quezon City
+B24685,Savemore Market P. Tuazon Quezon City
+B24711,SM Supermarket Manila Manila
+B24723,Waltermart Caloocan Caloocan City
+B24735,Rosario Public Market Batangas
+B24747,Purok Bombshell Lapulapu City
+B24759,Lopez Jaena Lapulapu City
+B24762,Waltermart Cabuyao Laguna
+B24786,El Camino Real Meycauayan City
+B24809,Poblacion 5 Balayan Batangas
+B24812,Pitogo Consolacion 2
+B24836,Robinsons Novaliches Quezon City
+B24848,Puregold GMA Cavite
+B24851,Nagaland E-Mall Naga City Camarines Sur
+B24899,Graceland Plaza Marikina Metro Manila
+B24913,SM Hypermarket Jaro Iloilo City
+B24976,Robinsons Imus Cavite
+B24991,Sibulan Negros Oriental
+B25003,Laray Inayawan Cebu City
+B25027,Lawaan Banonong Dapitan City
+B25039,Milan Buhangin Davao City
+B25042,NCCC Mall Buhangin Davao City
+B25054,Recodo Zamboanga City
+B25066,Pendatun Avenue Gensan City
+B25078,Ororama Supercenter Cogon Cagayan de Oro
+B25081,Ororama Supercenter Carmen Cagayan de Oro
+B25093,Don Carlos Public Market Bukidnon
+B25116,Zurbito Pating Masbate
+B25128,Calumpang Malinta Masbate
+B25131,Poblacion Pagsanjan
+B25143,SM Center Ormoc Leyte
+B25194,Divimart Supermarket Gen. Trias Cavite
+B25217,SM Southmall Terminal Las Pinas City
+B25229,Bantol Dampas Tagbilaran City
+B25232,Totolan Dauis Bohol
+B25244,Legaspi Roxas City Capiz
+B25271,Poblacion Ilaya Passi Iloilo
+B25283,Siayan Zamboanga Del Norte
+B25295,Tiguma 2 Pagadian City
+B25318,NCCC Mall Bajada Davao City
+B25321,Gaisano Grand Mall Polomolok South Cotabato
+B25333,Gaisano Grand Mall Digos Davao del Sur
+B25345,Laguindingan Misamis Oriental
+B25357,Balingasag Misamis Oriental
+B25372,SM Hypermarket Rosario Batangas Batangas
+B25396,Rosillos Nasipit Talamban
+B25419,Naga Zamboanga Sibugay
+B25422,Gaisano Grand Mall Kidapawan Cotabato
+B25508,Buendia - Taft Pasay City
+B25511,Buenamar Novaliches
+B25523,Upper Balulang Cagayan de Oro
+B25535,Waltermart Lotus Mall Cavite
+B25547,Northwest Plaza Monumento Metro Manila
+B25559,Catmon Cebu
+B25562,Catmondaan Catmon Cebu
+B25598,Robinsons Gen. Trias Cavite
+B25609,SM Center Las Pinas Metro Manila
+B25624,North Poblacion Calamba Misamis Occidental
+B25636,Campo Filipino Baguio City
+B25648,Poblacion Santander Cebu
+B25651,Bagting Dapitan City
+B25663,KM 4 Luna Surigao City
+B25675,Sarvida Taft Surigao City
+B25687,C. Tirona Poblacion Batangas City
+B25699,Waltermart Batangas Batangas City
+B25701,Waltermart San Pascual Batangas
+B25713,Mabalacat Pampanga
+B25725,SM Hypermarket Imus Cavite
+B25749,Rosary Heights XII Cotabato City
+B25788,Gaisano Grand Mall Panabo Davao del Norte
+B25791,Poblacion Tagoloan Misamis Oriental
+B25802,Puregold Sogod Leyte
+B25814,Notre Dame Cotabato City
+B25838,Deca Homes Tungkil
+B25877,Nuciti Central Mall Batangas
+B25889,Alphaland Southgate Mall Makati City
+B25892,Balagtas Bulacan
+B25903,Bagontaas Valencia Bukidnon
+B25915,Batangan Valencia Bukidnon
+B25927,Globalport Bohol Tagbilaran City
+B25939,Opao Mandaue City
+B25942,Delpan Tondo Manila
+B25978,Marcelo Dablo Pagadian City
+B25981,Poblacion Asturias Cebu
+B25993,Kalapati New Cabalan Olongapo
+B26017,Deca Indangan Davao City
+B26032,Waltermart Silang Cavite
+B26044,Waltermart Naic Cavite
+B26056,QQ Mall Quiapo Manila
+B26068,Unitown Center Sta. Rosa Laguna
+B26071,Iyam Lucena City
+B26083,Manulife Quezon City
+B26095,Bogo (Main) Cebu
+B26106,Poblacion Mother Cotabato City
+B26118,Lyceum Gen. Luis Cavite
+B26121,Poblacion Carmen Cebu
+B26133,Lucky Homes Handumanan Bacolod City
+B26145,Felisa Handumanan Bacolod City
+B26157,SM Hypermarket Handumanan Bacolod City
+B26169,Ibingay Masbate
+B26184,Punta Calamba Laguna
+B26196,Naga City People's Market Cebu
+B26207,Poblacion 1 Villanueva Misamis Oriental
+B26258,JA Clarin Poblacion 1 Tagbilaran

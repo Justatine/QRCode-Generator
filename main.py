@@ -156,12 +156,6 @@ def inputTrapping(store_code, store_name):
             messagebox.showwarning("Duplicate Entry", f"The store code '{store_code}' already exists.")
             return False        
         
-        # Check for duplicate store name
-        cursor.execute("SELECT COUNT(*) FROM stores WHERE store_name = ?", (store_name,))
-        if cursor.fetchone()[0] > 0:
-            messagebox.showwarning("Duplicate Entry", f"The store name '{store_name}' already exists.")
-            return False
-        
     except sqlite3.Error as e:
         messagebox.showerror("Database Error", f"An error occurred: {e}")
     finally:
